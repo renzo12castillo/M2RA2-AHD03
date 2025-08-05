@@ -1,0 +1,121 @@
+equipo_id,no_serie,marca_id,descripcion,fecha_compra,precio,tipo_equipo,empleado_id
+102,8743,7,Laptop de alto rendimiento para desarrollo de software,2024-11-15,18500,1,1
+2045,2345,12,Computadora de escritorio para tareas administrativas,2023-07-22,9500,1,2
+1500,9999,3,Estación de trabajo para diseño gráfico,2025-02-10,22000,1,3
+1345,4567,18,Equipo portátil para soporte técnico,2022-05-30,12000,1,5
+876,3210,21,Computadora para gestión de proyectos,2024-03-18,10500,1,6
+2100,7654,9,Laptop para ventas y presentaciones,2023-09-25,13500,1,7
+543,8765,15,Computadora para análisis de datos,2022-12-11,15000,1,8
+1999,6543,2,Equipo para administración de redes,2024-06-05,17000,1,9
+1200,4321,25,Laptop para desarrollo web,2023-04-19,16000,1,10
+234,5678,6,Computadora para recursos humanos,2022-08-27,9800,1,11
+1456,8762,11,Equipo portátil para capacitaciones,2024-01-14,12500,1,12
+1789,2346,17,Laptop para gerencia,2023-11-03,21000,1,13
+2001,3456,8,Computadora para área financiera,2022-03-21,14000,1,14
+987,6542,5,Laptop para soporte remoto,2024-07-08,13000,1,15
+1567,7890,14,Computadora para desarrollo de aplicaciones,2023-10-29,19500,1,16
+2345,1234,22,Equipo portátil para auditoría,2022-09-17,11500,1,17
+8765,4322,19,Laptop para marketing digital,2024-05-23,14500,1,18
+3456,8761,1,Computadora para gestión de inventarios,2023-01-12,11000,1,19
+765,2347,20,Laptop para atención a clientes,2022-06-28,12500,1,20
+1234,5679,13,Computadora para área legal,2024-02-19,13500,1,21
+1457,8763,24,Equipo portátil para supervisión,2023-08-15,12000,1,22
+1788,2348,10,Laptop para capacitaciones internas,2022-11-04,12800,1,23
+2002,3457,16,Computadora para desarrollo de sistemas,2024-04-07,18500,1,25
+988,6544,4,Laptop para soporte de infraestructura,2023-12-13,14000,1,26
+1568,7891,23,Computadora para análisis financiero,2022-10-30,15500,1,27
+2346,1235,7,Equipo portátil para visitas comerciales,2024-06-21,13200,1,28
+8766,4323,12,Laptop para gestión documental,2023-03-18,12000,1,29
+3457,8764,3,Computadora para área de compras,2022-07-09,9800,1,30
+766,2349,18,Laptop para soporte de usuarios,2024-08-01,12500,1,31
+1235,5680,21,Computadora para control de calidad,2023-05-27,11000,1,32
+1458,8764,9,Equipo portátil para supervisores,2022-12-22,11800,1,33
+1787,2349,15,Laptop para gestión de proyectos,2024-03-09,14500,1,35
+2003,3458,2,Computadora para administración general,2023-09-16,9500,1,36
+989,6545,25,Laptop para desarrollo móvil,2022-05-11,16500,1,37
+1569,7892,6,Computadora para área de logística,2024-01-28,12000,1,38
+2347,1236,11,Equipo portátil para capacitadores,2023-11-21,12500,1,39
+8767,4324,17,Laptop para gerentes de área,2022-04-15,21000,1,40
+3458,8765,8,Computadora para análisis de procesos,2024-07-19,14000,1,41
+767,2350,5,Laptop para soporte técnico,2023-02-23,13000,1,42
+1236,5681,14,Computadora para desarrollo de software,2022-08-31,19500,1,43
+1459,8765,22,Equipo portátil para auditores,2024-05-05,11500,1,44
+1786,2350,19,Laptop para marketing,2023-01-29,14500,1,45
+2004,3459,1,Computadora para gestión de almacén,2022-06-14,11000,1,46
+990,6546,20,Laptop para atención al cliente,2024-02-25,12500,1,47
+1570,7893,13,Computadora para área jurídica,2023-08-03,13500,1,48
+2348,1237,24,Equipo portátil para supervisores,2022-11-18,12000,1,49
+8768,4325,10,Laptop para capacitaciones,2024-04-13,12800,1,50
+3459,8766,16,Computadora para desarrollo de sistemas,2023-10-07,18500,1,51
+768,2351,23,Laptop para análisis de datos,2022-09-25,15500,1,52
+1237,5682,7,Computadora para visitas comerciales,2024-06-29,13200,1,53
+1460,8766,12,Equipo portátil para gestión documental,2023-03-26,12000,1,54
+1785,2351,3,Laptop para área de compras,2022-07-17,9800,1,55
+2005,3460,18,Computadora para soporte de usuarios,2024-08-03,12500,1,56
+991,6547,21,Laptop para control de calidad,2023-05-31,11000,1,57
+1571,7894,9,Computadora para supervisores,2022-12-28,11800,1,58
+2349,1238,15,Laptop para gestión de proyectos,2024-03-13,14500,1,59
+8769,4326,2,Computadora para administración,2023-09-20,9500,1,60
+3460,8767,25,Laptop para desarrollo móvil,2022-05-15,16500,1,61
+769,2352,6,Computadora para logística,2024-02-01,12000,1,62
+1238,5683,11,Equipo portátil para capacitadores,2023-11-25,12500,1,63
+1461,8767,17,Laptop para gerentes,2022-04-19,21000,1,64
+1784,2352,8,Computadora para análisis de procesos,2024-07-23,14000,1,65
+2006,3461,5,Laptop para soporte técnico,2023-02-27,13000,1,66
+992,6548,14,Computadora para desarrollo,2022-09-04,19500,1,67
+1572,7895,22,Equipo portátil para auditoría,2024-05-09,11500,1,68
+2350,1239,19,Laptop para marketing digital,2023-02-02,14500,1,69
+8770,4327,1,Computadora para gestión de inventarios,2022-06-18,11000,1,70
+3461,8768,20,Laptop para atención a clientes,2024-03-01,12500,1,71
+770,2353,13,Computadora para área legal,2023-08-07,13500,1,72
+1239,5684,24,Equipo portátil para supervisión,2022-11-22,12000,1,73
+1462,8768,10,Laptop para capacitaciones internas,2024-04-17,12800,1,74
+1783,2353,16,Computadora para desarrollo de sistemas,2023-10-11,18500,1,75
+2007,3462,23,Laptop para análisis financiero,2022-10-04,15500,1,76
+993,6549,7,Computadora para visitas comerciales,2024-07-03,13200,1,77
+1573,7896,12,Equipo portátil para gestión documental,2023-03-30,12000,1,78
+2351,1240,3,Laptop para área de compras,2022-07-21,9800,1,79
+8771,4328,18,Computadora para soporte de usuarios,2024-08-05,12500,1,80
+3462,8769,21,Laptop para control de calidad,2023-06-04,11000,1,81
+771,2354,9,Computadora para supervisores,2022-12-31,11800,1,82
+1240,5685,15,Laptop para gestión de proyectos,2024-03-17,14500,1,83
+1463,8769,2,Computadora para administración general,2023-09-24,9500,1,84
+1782,2354,25,Laptop para desarrollo móvil,2022-05-19,16500,1,85
+2008,3463,6,Computadora para logística,2024-02-05,12000,1,86
+994,6550,11,Equipo portátil para capacitadores,2023-11-29,12500,1,87
+1574,7897,17,Laptop para gerentes de área,2022-04-23,21000,1,88
+2352,1241,8,Computadora para análisis de procesos,2024-07-27,14000,1,89
+8772,4329,5,Laptop para soporte técnico,2023-03-03,13000,1,90
+3463,8770,14,Computadora para desarrollo de software,2022-09-08,19500,1,91
+772,2355,22,Equipo portátil para auditoría,2024-05-13,11500,1,92
+1241,5686,19,Laptop para marketing digital,2023-02-06,14500,1,93
+1464,8770,1,Computadora para gestión de inventarios,2022-06-22,11000,1,94
+1781,2355,20,Laptop para atención a clientes,2024-03-05,12500,1,95
+2009,3464,13,Computadora para área legal,2023-08-11,13500,1,96
+995,6551,24,Equipo portátil para supervisión,2022-11-26,12000,1,97
+1575,7898,10,Laptop para capacitaciones internas,2024-04-21,12800,1,98
+2353,1242,16,Computadora para desarrollo de sistemas,2023-10-15,18500,1,99
+8773,4330,23,Laptop para análisis financiero,2022-10-08,15500,1,100
+3464,8771,7,Computadora para visitas comerciales,2024-07-07,13200,1,101
+773,2356,12,Equipo portátil para gestión documental,2023-04-03,12000,1,102
+1242,5687,3,Laptop para área de compras,2022-07-25,9800,1,103
+1465,8771,18,Computadora para soporte de usuarios,2024-08-05,12500,1,105
+1780,2356,21,Laptop para control de calidad,2023-06-08,11000,1,106
+2010,3465,9,Computadora para supervisores,2022-12-31,11800,1,107
+996,6552,15,Laptop para gestión de proyectos,2024-03-21,14500,1,108
+1576,7899,2,Computadora para administración general,2023-09-28,9500,1,109
+2354,1243,25,Laptop para desarrollo móvil,2022-05-23,16500,1,110
+8774,4331,6,Computadora para logística,2024-02-09,12000,1,111
+3465,8772,11,Equipo portátil para capacitadores,2023-12-03,12500,1,112
+774,2357,17,Laptop para gerentes de área,2022-04-27,21000,1,113
+1243,5688,8,Computadora para análisis de procesos,2024-07-31,14000,1,114
+1466,8772,5,Laptop para soporte técnico,2023-03-07,13000,1,115
+1779,2357,14,Computadora para desarrollo de software,2022-09-12,19500,1,116
+2011,3466,22,Equipo portátil para auditoría,2024-05-17,11500,1,117
+996,6553,19,Laptop para marketing digital,2023-02-10,14500,1,118
+1577,7900,1,Computadora para gestión de inventarios,2022-06-26,11000,1,119
+2355,1244,20,Laptop para atención a clientes,2024-03-09,12500,1,120
+8775,4332,13,Computadora para área legal,2023-08-15,13500,1,121
+3466,8773,24,Equipo portátil para supervisión,2022-11-30,12000,1,122
+775,2358,10,Laptop para capacitaciones internas,2024-04-25,12800,1,123
+1244,5689,16,Computadora para desarrollo de sistemas,2023-10-19,18500,1,124

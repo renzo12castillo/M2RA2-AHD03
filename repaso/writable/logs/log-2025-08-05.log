@@ -1,0 +1,84 @@
+CRITICAL - 2025-08-05 17:47:52 --> ErrorException: Undefined array key ""
+[Method: GET, Route: equipos]
+in APPPATH\Views\equipos.php on line 86.
+ 1 APPPATH\Views\equipos.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key ""', 'C:\\xampp\\htdocs\\fs2025\\repaso0408\\repaso\\app\\Views\\equipos.php', 86)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\fs2025\\repaso0408\\repaso\\app\\Views\\equipos.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('equipos', [], true)
+ 5 APPPATH\Controllers\EquipoController.php(12): view('equipos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EquipoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EquipoController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-08-05 17:52:59 --> ErrorException: Undefined variable $empleado
+[Method: GET, Route: equipos]
+in APPPATH\Views\equipos.php on line 86.
+ 1 APPPATH\Views\equipos.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $empleado', 'C:\\xampp\\htdocs\\fs2025\\repaso0408\\repaso\\app\\Views\\equipos.php', 86)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\fs2025\\repaso0408\\repaso\\app\\Views\\equipos.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('equipos', [], true)
+ 5 APPPATH\Controllers\EquipoController.php(12): view('equipos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EquipoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EquipoController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-08-05 17:54:46 --> ErrorException: Undefined variable $empleado
+[Method: GET, Route: equipos]
+in APPPATH\Views\equipos.php on line 86.
+ 1 APPPATH\Views\equipos.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $empleado', 'C:\\xampp\\htdocs\\fs2025\\repaso0408\\repaso\\app\\Views\\equipos.php', 86)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\fs2025\\repaso0408\\repaso\\app\\Views\\equipos.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('equipos', [], true)
+ 5 APPPATH\Controllers\EquipoController.php(12): view('equipos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EquipoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EquipoController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-08-05 17:54:46 --> ErrorException: Undefined variable $empleado
+[Method: GET, Route: equipos]
+in APPPATH\Views\equipos.php on line 86.
+ 1 APPPATH\Views\equipos.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $empleado', 'C:\\xampp\\htdocs\\fs2025\\repaso0408\\repaso\\app\\Views\\equipos.php', 86)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\fs2025\\repaso0408\\repaso\\app\\Views\\equipos.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('equipos', [], true)
+ 5 APPPATH\Controllers\EquipoController.php(12): view('equipos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EquipoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EquipoController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-08-05 17:54:47 --> ErrorException: Undefined variable $empleado
+[Method: GET, Route: equipos]
+in APPPATH\Views\equipos.php on line 86.
+ 1 APPPATH\Views\equipos.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $empleado', 'C:\\xampp\\htdocs\\fs2025\\repaso0408\\repaso\\app\\Views\\equipos.php', 86)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\fs2025\\repaso0408\\repaso\\app\\Views\\equipos.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('equipos', [], true)
+ 5 APPPATH\Controllers\EquipoController.php(12): view('equipos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EquipoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EquipoController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-08-05 17:54:47 --> ErrorException: Undefined variable $empleado
+[Method: GET, Route: equipos]
+in APPPATH\Views\equipos.php on line 86.
+ 1 APPPATH\Views\equipos.php(86): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $empleado', 'C:\\xampp\\htdocs\\fs2025\\repaso0408\\repaso\\app\\Views\\equipos.php', 86)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\fs2025\\repaso0408\\repaso\\app\\Views\\equipos.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('equipos', [], true)
+ 5 APPPATH\Controllers\EquipoController.php(12): view('equipos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\EquipoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EquipoController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
