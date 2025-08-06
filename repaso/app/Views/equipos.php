@@ -29,15 +29,15 @@
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
-                                <form action="agregarEmpleado" method="post">
+                                <form action="agregarEquipo" method="post">
                                     <label for="txt_equipo_id" class="form-label">Equipo ID</label>
                                     <input type="number" name="txt_equipo_id" id="txt_equipo_id" class="form-control">
 
                                     <label for="txt_no_serie" class="form-label">No. de Serie</label>
                                     <input type="number" name="txt_no_serie" id="txt_no_serie" class="form-control">
 
-                                    <label for="txt_apellido_add" class="form-label">Marca ID</label>
-                                    <input type="number" name="txt_apellido_add" id="txt_apellido_add" class="form-control">
+                                    <label for="txt_marca_id" class="form-label">Marca ID</label>
+                                    <input type="number" name="txt_marca_id" id="txt_marca_id" class="form-control">
 
                                     <label for="txt_descripcion" class="form-label">Descripcion</label>
                                     <input type="text" name="txt_descripcion" id="txt_descripcion" class="form-control">
@@ -93,7 +93,8 @@
                                 <td> <?= $equipo['tipo_equipo']; ?> </td>
                                 <td> <?= $equipo['empleado_id']; ?> </td>
                                 <td>
-                                    <!-- EN ESTE TD DEBES AGREGRAR LOS BOTONES DE ELIMINAR Y MODIFICAR -->
+                                    <a href="<?= base_url('eliminar_equipo/').$equipo['equipo_id']; ?>" class="btn btn-danger"><i class="bi bi-trash-fill"></i></a>
+                                    <a href="<?= base_url('buscar_equipo/').$equipo['equipo_id']; ?>" class="btn btn-info"><i class="bi bi-pencil-square"></i></a>
                                 </td>
                             </tr>
                         <?php
