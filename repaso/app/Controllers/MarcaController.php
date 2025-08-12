@@ -33,7 +33,7 @@
         public function buscar($id)
         {
             $marca = new MarcaModel(); 
-            $datos['datos']=$marca->where(['marca_id'])->first(); 
+            $datos['datos'] = $marca->where(['marca_id' => $id])->first(); 
             return view('form_modificar_marcas', $datos);
         }
 
