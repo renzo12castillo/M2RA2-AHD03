@@ -6,6 +6,10 @@ use CodeIgniter\Router\RouteCollection;
  * @var RouteCollection $routes
  */
 
+
+/* RUTA PRINCIPAL DEL MENU */
+$routes->get('menu', 'MenuController::inicio');
+
 /*RUTAS EMPLEADOS*/
 
 $routes->get('/', 'EmpleadoController::index');
@@ -51,3 +55,13 @@ $routes->post('editar_rol', 'RolController::editar');
 /* RUTAS TIPO EQUIPO */
 $routes->get('tipoequipo', 'TipoEquipoController::index');
 $routes->post('agregarTipoEquipo', 'TipoEquipoController::agregar');  
+$routes->get('eliminar_tipo_equipo/(:num)', 'TipoEquipoController::eliminar/$1'); 
+$routes->get('buscar_tipo_equipo/(:num)', 'TipoEquipoController::buscar/$1'); 
+$routes->post('editar_tipo_equipo', 'TipoEquipoController::editar'); 
+
+/* RUTAS USUARIOS */ 
+$routes->get('usuarios', 'UsuarioController::index');
+$routes->post('agregarUsuario', 'UsuarioController::agregar');
+$routes->get('eliminar_usuario/(:num)', 'UsuarioController::eliminar/$1');  
+$routes->get('buscar_usuario/(:num)', 'UsuarioController::buscar/$1');
+$routes->post('editar_usuario', 'UsuarioController::editar');
