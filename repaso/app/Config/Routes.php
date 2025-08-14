@@ -8,11 +8,11 @@ use CodeIgniter\Router\RouteCollection;
 
 
 /* RUTA PRINCIPAL DEL MENU */
-$routes->get('menu', 'MenuController::inicio');
+$routes->get('/', 'MenuController::inicio');
 
 /*RUTAS EMPLEADOS*/
 
-$routes->get('/', 'EmpleadoController::index');
+/* $routes->get('/', 'EmpleadoController::index'); */
 $routes->get('empleados', 'EmpleadoController::index');
 $routes->get('eliminar_empleado/(:num)', 'EmpleadoController::eliminar/$1');
 $routes->get('buscar_empleado/(:num)', 'EmpleadoController::buscar/$1');
